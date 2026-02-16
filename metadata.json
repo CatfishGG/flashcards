@@ -1,0 +1,5 @@
+{
+  "name": "FlashMaster 11",
+  "description": "A modern, dark-themed flashcard application for 11th-grade English study. Features CSV upload, 3D card flips, swipe navigation, and progress tracking.",
+  "requestFramePermissions": []
+}
